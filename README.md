@@ -1,5 +1,14 @@
 # AI-Resume-Analyzer
 The AI Resume Analyzer is a desktop application built with Python and advanced NLP models that intelligently analyzes and improves resume quality. Designed for job seekers, HR professionals, and resume consultants, it provides real-time feedback and actionable suggestions to elevate any resume.
+🚀 Features
+- ✅ Grammar correction using HuggingFace Transformers
+- ✅ Passive voice detection via spaCy
+- ✅ Weak/vague phrase detection
+- ✅ Resume section analysis using semantic similarity
+- ✅ Intelligent improvement suggestions
+- ✅ Resume scoring out of 100
+- ✅ Tkinter-based user-friendly GUI
+- ✅ Multithreaded model loading (smooth UX)
 ## 🛠️ Built With
 - **Python 3**
 - [spaCy](https://spacy.io/)
