@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+spacy
+PyPDF2
+torch
+tk
